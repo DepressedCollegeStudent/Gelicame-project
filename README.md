@@ -55,6 +55,3 @@
 
 ## How to install
 - Step 1: Download the zip file or use git clone.
-
-## Yeah
-JKAFB FOWAB GOFWAO Fnjko
