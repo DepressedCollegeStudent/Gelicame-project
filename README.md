@@ -56,11 +56,5 @@
 ## How to install
 - Step 1: Download the zip file or use git clone.
 
-## 1st commit
+## no. 1
 yeah
-
-## 2nd commit
-no
-
-# why
-pgjesgrgksg
